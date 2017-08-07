@@ -8,4 +8,4 @@ Tcp client server is a java application built to emphasize threading on the clie
 #If using idea do a mvn idea:idea
 #If using eclipse do a mvn:eclipse:eclipse
 #Create a jar file eg:idea will create an out folder/artifacts/jar file
-#Run the jar file using tcp-client.sh
+#Run the jar file using tcp-client.sh [numer of threads]
