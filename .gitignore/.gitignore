@@ -1,3 +1,3 @@
-../out
-../target
-../idea
+tcp-client/out
+tcp-client/target
+tcp-client/idea

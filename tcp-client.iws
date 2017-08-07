@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="153a53a7-05c1-468f-ab75-3b90cd53a901" name="Default" comment="" />
+    <list default="true" id="153a53a7-05c1-468f-ab75-3b90cd53a901" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore/.gitignore" afterPath="$PROJECT_DIR$/.gitignore/.gitignore" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
